@@ -11,7 +11,7 @@
 - Atualização 2: [Rutileno Gabriel](https://github.com/BigLeno)
 - Atualização 3: [Pedro Albuquerque](https://github.com/NeptUser)
 
-> O firmware foi movindo de repositório tendo em vista que o Studio Saturn foi descontinuado, facilitando o versionamento e atualização das configurações da impressora.
+>Tendo em vista que o Studio Saturn foi descontinuado e novos colaboradores estão participando do desenvolvimento da impressora, o firmware foi movido de repositório afim de facilitar o versionamento e atualização das configurações da impressora, entretando é possivel acessar o repositório original [neste link](https://github.com/StudioSaturn/MKS3D)
 
 <h2 align="left">
     <a href="https://github.com/NeptUser/Rhianna-MKS3D">Descrição do Projeto</a>
